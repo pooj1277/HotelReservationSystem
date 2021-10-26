@@ -57,21 +57,3 @@ public class Hotel {
 
 
 
-/*
-import java.util.List;
-
-public class Hotel {
-	String hotelname;
-	String customerType;
-	String dayType;
-	int rate;
-	
-	Hotel(String hotelname, String customerType, String dayType, int rate){
-		this.hotelname = hotelname;
-		this.dayType = dayType;
-		this.customerType = customerType;
-		this.rate = rate;
-	}
-	
-}
-*/
